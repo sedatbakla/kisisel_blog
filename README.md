@@ -16,7 +16,7 @@ Site, kendimi tanıttığım, becerilerimi paylaştığım ve galeri bölümünd
 
 ## Yayınlanan Site
 Projeye buradan ulaşabilirsiniz:  
-👉 [Kişisel Blog Sitesi](https://sedatbakla.github.io/)
+👉 [Kişisel Blog Sitesi](https://sedatbakla.github.io/kisisel_blog/)
 
 ## İletişim
 - 📞 Telefon: 05541410748  
@@ -26,3 +26,4 @@ Projeye buradan ulaşabilirsiniz:
 ---
 
 © 2025 Sedat Bakla
+
